@@ -1,7 +1,7 @@
 # Laravel tutorial.
 my project to learn laravel
 # Note:
-#####1. Cài đặt
+##### 1. Cài đặt
 Lệnh dowload và cài đặt laravel: 
 ``` 
 composer global require "laravel/installer"
@@ -10,7 +10,7 @@ Lệnh tạo project laravel mới:
 ```
 laravel new [tên project]
 ```
-#####2. Cấu hình project
+##### 2. Cấu hình project
 - Mở file .env để cấu hình kết nối mysql
 chỉnh sữa những thông số sau
 ```
